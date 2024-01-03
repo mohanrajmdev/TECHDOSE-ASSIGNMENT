@@ -6,4 +6,4 @@
 ## 4. [Maths Algorithm](https://github.com/mohanrajmdev/TECHDOSE-ASSIGNMENT/tree/main/Math-Algorithm)
 ## 5. [Matrix](https://github.com/mohanrajmdev/TECHDOSE-ASSIGNMENT/tree/main/Matrix)
 ## 6. [Sorting-Algorithm](https://github.com/mohanrajmdev/TECHDOSE-ASSIGNMENT/tree/main/Sorting-Algorithm)
-## 7. [Stack & Queue](https://github.com/mohanrajmdev/TECHDOSE-ASSIGNMENT/tree/main/Stack %26 Queue)
+## 7. [Stack & Queue](https://github.com/mohanrajmdev/TECHDOSE-ASSIGNMENT/tree/main/)
